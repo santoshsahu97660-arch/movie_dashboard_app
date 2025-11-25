@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+seaborn
+requests
+reportlab
+python-pptx
+openpyxl
